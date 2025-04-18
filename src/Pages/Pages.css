@@ -1,0 +1,31 @@
+.page-container {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    min-height: 100vh;
+    /* min-height: 88.5vh; */
+    /* min-height: 100%; */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.section {
+    padding: 60px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    color: #003366;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.icon {
+    width: 150px;
+    margin-top: 20px;
+}
