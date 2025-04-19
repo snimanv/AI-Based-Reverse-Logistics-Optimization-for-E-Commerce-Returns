@@ -19,7 +19,7 @@ export default function Navbar() {
         <li><Link to="/warehouse">Warehouse</Link></li>
         <li><Link to="/resale">Resale Profit</Link></li> */}
 
-        <li><NavLink to="/dashboard" className={({ isActive }) => isActive ? "active" : ""}>Company</NavLink></li>
+        <li><NavLink to="/dashboard" className={({ isActive }) => isActive ? "active" : ""}>Home</NavLink></li>
         <li><NavLink to="/detection" className={({ isActive }) => isActive ? "active" : ""}>Fraud Detection</NavLink></li>
         <li><NavLink to="/warehouse" className={({ isActive }) => isActive ? "active" : ""}>Warehouse</NavLink></li>
         <li><NavLink to="/resale" className={({ isActive }) => isActive ? "active" : ""}>Resale Profit</NavLink></li>

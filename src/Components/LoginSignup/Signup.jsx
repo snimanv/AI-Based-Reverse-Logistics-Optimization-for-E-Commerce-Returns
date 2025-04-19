@@ -108,7 +108,7 @@ export default function Signup() {
             {/* <div className="submit"><button type="submit">Sign Up</button></div> */}
             {/* <div className="submit">Log In</div> */}
             <button type="submit" className="submit">Sign Up</button>
-            <Link to="/login" className="submit">Log In</Link>
+            <Link to="/login" className="submit gray">Log In</Link>
           </div>
 
         </form>

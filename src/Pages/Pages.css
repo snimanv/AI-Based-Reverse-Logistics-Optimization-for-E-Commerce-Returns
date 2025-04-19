@@ -29,3 +29,47 @@ p {
     width: 150px;
     margin-top: 20px;
 }
+
+.section-services-title {
+    text-align: center;
+    margin-top: 60px;
+    color: #003366;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.services-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* margin-top: 40px; */
+    text-align: center;
+}
+
+.service-card {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 30px 20px;
+    /* margin: 15px; */
+    width: 250px;
+    text-decoration: none;
+    color: #333;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.service-card img {
+    width: 60px;
+    margin-bottom: 15px;
+}
+
+.service-card h3 {
+    color: #003366;
+    /* margin-bottom: 10px; */
+    font-size: 1.2rem;
+}

@@ -89,7 +89,7 @@ export default function Login() {
           <div className="submit-container">
             {/* <div className="submit">Sign Up</div> */}
             {/* <div className="submit">Log In</div> */}
-            <Link to="/" className="submit">Sign Up</Link>
+            <Link to="/" className="submit gray">Sign Up</Link>
             <button type="submit" className="submit">Log In</button>
           </div>
 

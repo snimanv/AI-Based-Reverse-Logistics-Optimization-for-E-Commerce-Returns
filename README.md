@@ -1,3 +1,9 @@
+<a href="https://www.flaticon.com/free-icons/detection" title="detection icons">Detection icons created by HAJICON - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/storage" title="storage icons">Storage icons created by Nhor Phai - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/arbitrage" title="arbitrage icons">Arbitrage icons created by gravisio - Flaticon</a>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
