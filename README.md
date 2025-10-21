@@ -2,6 +2,11 @@ This is a front-end React project to make smart decisions refarding reverse logi
 
 In the e-commerce industry, returns are inevitable — often caused by product dissatisfaction, late delivery, or mismatch in expectations. Returned products need to be efficiently evaluated, re-categorized, and reintegrated into the supply chain. This process, known as Reverse Logistics, involves a lot of decision-making based on product condition, delivery metrics, and customer feedback.
 
+HOW TO RUN:
+-> Run the backend: node server.js
+-> Run the React: npm run dev
+-> The sign up info gets saved in Auth folder for future access for login to Dashboard.
+
 
 
 <!-- SIGN UP PAGE -->
