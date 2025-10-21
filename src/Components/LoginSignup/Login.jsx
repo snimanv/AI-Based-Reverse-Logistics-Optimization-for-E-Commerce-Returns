@@ -33,15 +33,16 @@ export default function Login() {
         const data = await response.json();
         if (response.ok) {
           alert('Login successful!');
-          navigate('/dashboard'); // 👉 Redirect to dashboard
+          navigate('/dashboard');
         } else {
           alert(data.message);
         }
       } catch (err) {
         alert('Login failed');
+        console.error(err);
       }
 
-  }
+  };
 
 
   return (
